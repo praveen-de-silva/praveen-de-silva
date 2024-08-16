@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praveen_de_silva
+- 👋 Hi, I’m @praveen-de-silva
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
