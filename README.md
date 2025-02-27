@@ -8,7 +8,6 @@
 
 ## 💡 Interests  
 🔹 Software Development (OOP, Full-Stack, Embedded Systems)  
-🔹 Game Development (Unity, Unreal Engine, Object-Oriented Design)  
 🔹 FPGA & Hardware Design (Vivado, BASYS 3)  
 🔹 Web Development (HTML, CSS, JavaScript, GitHub Pages)  
 
