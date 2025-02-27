@@ -20,6 +20,7 @@
 📚 **Tools & Platforms:** Git, GitHub, VS Code, Linux  
 
 ## 📈 GitHub Stats  
+![Profile Views](https://komarev.com/ghpvc/?username=praveen-de-silva&color=blue)  
 ![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen-de-silva&show_icons=true&theme=radical)  
 
 ## 📫 Connect with Me  
