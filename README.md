@@ -3,18 +3,18 @@
 ## 🚀 About Me  
 🎓 Computer Science student at the **University of Moratuwa**  
 💻 Passionate about **software development, web technologies, and computer architecture**  
-🎯 Currently exploring **game development, FPGA design, and full-stack web development**  
+🎯 Currently exploring **computer science, web development**  
 🌱 Always eager to learn and contribute to **open-source projects**  
 
 ## 💡 Interests  
 🔹 Software Development (OOP, Full-Stack, Embedded Systems)  
 🔹 Game Development (Unity, Unreal Engine, Object-Oriented Design)  
-🔹 FPGA & Hardware Design (Xilinx Vivado, BASYS 3)  
+🔹 FPGA & Hardware Design (Vivado, BASYS 3)  
 🔹 Web Development (HTML, CSS, JavaScript, GitHub Pages)  
 
 ## 🛠️ Tech Stack  
 💻 **Languages:** C++, Java, Python, JavaScript  
-🌐 **Web:** HTML, CSS, React.js  
+🌐 **Web:** HTML, CSS  
 🎮 **Game Development:** Unity, Unreal Engine  
 🔬 **Hardware & FPGA:** Verilog, Xilinx Vivado  
 📚 **Tools & Platforms:** Git, GitHub, VS Code, Linux  
@@ -23,10 +23,12 @@
 ![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen-de-silva&show_icons=true&theme=radical)  
 
 ## 📫 Connect with Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-🐦 [Twitter](https://twitter.com/your-handle-here)  
-📧 praveen.email@example.com  
-🌍 [Portfolio](https://your-portfolio-link.com)  
+🔗 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/praveen-de-silva-854a732a2))  
+🐦 [Twitter]([https://twitter.com/your-handle-here](https://x.com/PraveenDeS54680))  
+📧 pdsilva496@gmail.com 
+🌍 [Portfolio]([https://your-portfolio-link.com](https://6787c9737816f119cea55f27--relaxed-mermaid-821c62.netlify.app/))  
+🐍 [HackerRank]([https://www.hackerrank.com/your-username](https://www.hackerrank.com/profile/praveen_de_silva))
+
 
 ---
 
