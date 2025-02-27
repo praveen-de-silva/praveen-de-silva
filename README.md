@@ -22,11 +22,24 @@
 ![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen-de-silva&show_icons=true&theme=radical)  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/praveen-de-silva-854a732a2)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/PraveenDeS54680)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:pdsilva496@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?logo=google-chrome&logoColor=white&style=for-the-badge)](https://6787c9737816f119cea55f27--relaxed-mermaid-821c62.netlify.app/)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/praveen_de_silva) 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/praveen-de-silva-854a732a2" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="https://x.com/PraveenDeS54680" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx.png" alt="Twitter" width="50" height="50"/>
+  </a>
+  <a href="mailto:pdsilva496@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" alt="Gmail" width="50" height="50"/>
+  </a>
+  <a href="https://6787c9737816f119cea55f27--relaxed-mermaid-821c62.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" width="50" height="50"/>
+  </a>
+  <a href="https://www.hackerrank.com/praveen_de_silva" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/2EC866/hackerrank.png" alt="HackerRank" width="50" height="50"/>
+  </a>
+</p>
 
 ---
 
