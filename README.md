@@ -14,8 +14,7 @@
 
 ## 🛠️ Tech Stack  
 💻 **Languages:** C++, Java, Python, JavaScript  
-🌐 **Web:** HTML, CSS  
-🎮 **Game Development:** Unity, Unreal Engine  
+🌐 **Web:** HTML, CSS
 🔬 **Hardware & FPGA:** Verilog, Xilinx Vivado  
 📚 **Tools & Platforms:** Git, GitHub, VS Code, Linux  
 
