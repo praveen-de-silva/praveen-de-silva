@@ -34,12 +34,13 @@
     <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" alt="Gmail" width="50" height="50"/>
   </a>
   <a href="https://6787c9737816f119cea55f27--relaxed-mermaid-821c62.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" width="50" height="50"/>
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/domain.png" alt="Portfolio" width="50" height="50" style="background-color: black; border-radius: 10px;"/>
   </a>
   <a href="https://www.hackerrank.com/praveen_de_silva" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/2EC866/hackerrank.png" alt="HackerRank" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="50" height="50"/>
   </a>
 </p>
+
 
 ---
 
