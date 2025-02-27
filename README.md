@@ -23,18 +23,12 @@
 ![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen-de-silva&show_icons=true&theme=radical)  
 
 ## 📫 Connect with Me  
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/praveen-de-silva-854a732a2))  
-🐦 [Twitter]([https://twitter.com/your-handle-here](https://x.com/PraveenDeS54680))  
-📧 pdsilva496@gmail.com 
-🌍 [Portfolio]([https://your-portfolio-link.com](https://6787c9737816f119cea55f27--relaxed-mermaid-821c62.netlify.app/))  
-🐍 [HackerRank]([https://www.hackerrank.com/your-username](https://www.hackerrank.com/profile/praveen_de_silva))
-
+🔗 [LinkedIn](https://www.linkedin.com/in/praveen-de-silva-854a732a2)  
+🐦 [Twitter](https://x.com/PraveenDeS54680)  
+📧 pdsilva496@gmail.com  
+🌍 [Portfolio](https://6787c9737816f119cea55f27--relaxed-mermaid-821c62.netlify.app/)  
+🐍 [HackerRank](https://www.hackerrank.com/praveen_de_silva)  
 
 ---
 
 ⭐ **Feel free to explore my repositories and contribute!**  
-
-<!---
-praveen-de-silva/praveen-de-silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
