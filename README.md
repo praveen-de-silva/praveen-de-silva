@@ -22,7 +22,6 @@
 ![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen-de-silva&show_icons=true&theme=radical)  
 
 ## 📫 Connect with Me  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/praveen-de-silva-854a732a2" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="50" height="50"/>
