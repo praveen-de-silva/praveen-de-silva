@@ -105,7 +105,7 @@
 
 <div align="center">
 
-### 🌐 Let's Connect
+
 
 <a href="https://www.linkedin.com/in/praveen-de-silva-854a732a2" target="_blank">
 <img src="https://img.icons8.com/fluency/64/linkedin.png" alt="LinkedIn" width="60" height="60"/>
@@ -129,7 +129,7 @@
 
 <div align="center">
 
-### 💭 Philosophy
+
 
 *"No walls - No excuses"*
 
