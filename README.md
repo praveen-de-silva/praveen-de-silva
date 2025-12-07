@@ -2,110 +2,108 @@
 
 # 👋 Hi, I'm Praveen De Silva
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+%40+UoM;Building+Intelligent+Systems;Full+Stack+%7C+AI%2FML+%7C+FPGA;Open+Source+Enthusiast" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=praveen-de-silva&color=blue&style=flat)](https://github.com/praveen-de-silva)
 
 </div>
 
----
+<br>
 
-## 🎓 About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Computer Science** @ **University of Moratuwa**
+### 🚀 Exploring the intersection of **Software**, **Hardware** & **Intelligence**
 
-Passionate about building intelligent systems and solving complex problems through code. I thrive on exploring new technologies and contributing to innovative projects.
+🎓 Computer Science student at **University of Moratuwa**, passionate about crafting intelligent systems and solving real-world problems through elegant code.
 
----
+💡 Currently diving deep into **AI/ML techniques**, **full-stack development**, and **FPGA design** while contributing to open-source projects.
 
-## 🎯 Current Focus
+🎯 Specialized in **OOP**, **embedded systems**, **Verilog/Vivado**, and modern **web technologies** — bridging the gap between hardware and software.
 
-```
-🔍 Exploring: Computer Science Fundamentals & Web Development
-🌱 Learning: Advanced AI/ML Techniques & Full-Stack Development
-🤝 Open to: Open-Source Collaborations & Learning Opportunities
-```
+<br clear="right"/>
 
 ---
 
-## 💼 Core Competencies
+<div align="center">
+
+### 🛠️ Tech Stack & Tools
 
 <table>
 <tr>
-<td width="33%" align="center">
-
-### 💻 Software Development
-`OOP` `Full-Stack` `Embedded Systems`
-
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="48" height="48" alt="C++" />
+<br>C++
 </td>
-<td width="33%" align="center">
-
-### ⚡ Hardware Design
-`FPGA` `Verilog` `Xilinx Vivado` `BASYS 3`
-
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="48" height="48" alt="Java" />
+<br>Java
 </td>
-<td width="33%" align="center">
-
-### 🌐 Web Technologies
-`HTML` `CSS` `JavaScript` `React` `GitHub Pages`
-
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/python.png" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/javascript.png" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/html-5.png" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/css3.png" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/react-native.png" width="48" height="48" alt="React" />
+<br>React
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/git.png" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/github.png" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/linux.png" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=verilog" width="48" height="48" alt="Verilog" />
+<br>Verilog
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/xilinx/xilinx-icon.svg" width="48" height="48" alt="Xilinx" />
+<br>Xilinx
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/fluency/48/basys.png" width="48" height="48" alt="BASYS3" />
+<br>BASYS 3
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Technical Arsenal
-
-<p align="center">
-
-**Languages**  
-<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/python.png" alt="Python" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/verilog.png" alt="Verilog" width="48" height="48"/>
-
-**Web Development**  
-<img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="48" height="48"/>
-
-**Tools & Platforms**  
-<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/github.png" alt="GitHub" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/linux.png" alt="Linux" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/xilinx.png" alt="Xilinx" width="48" height="48"/>
-
-</p>
-
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen-de-silva&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-de-silva&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveen-de-silva&theme=radical&hide_border=true)
-
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-de-silva-854a732a2)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/PraveenDeS54680)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pdsilva496@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://6787c9737816f119cea55f27--relaxed-mermaid-821c62.netlify.app/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/praveen_de_silva)
+### 📊 GitHub Journey
+
+<img src="https://github-readme-stats.vercel.app/api?username=praveen-de-silva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen-de-silva&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-de-silva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen-de-silva&theme=tokyo-night&hide_border=true&area=true" width="49%" alt="Contribution Graph" />
 
 </div>
 
@@ -113,8 +111,36 @@ Passionate about building intelligent systems and solving complex problems throu
 
 <div align="center">
 
-### 💡 *"When the mind is happy, every task becomes a pleasure."*
+### 🌐 Let's Connect
+
+<a href="https://www.linkedin.com/in/praveen-de-silva-854a732a2">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/PraveenDeS54680">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="mailto:pdsilva496@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://6787c9737816f119cea55f27--relaxed-mermaid-821c62.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.hackerrank.com/praveen_de_silva">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Philosophy
+
+*"When the mind is happy, every task becomes a pleasure."*
 
 **⭐ Feel free to explore my repositories and contribute!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 </div>
