@@ -107,20 +107,20 @@
 
 ### 🌐 Let's Connect
 
-<a href="https://www.linkedin.com/in/praveen-de-silva-854a732a2">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/praveen-de-silva-854a732a2" target="_blank">
+<img src="https://img.icons8.com/fluency/64/linkedin.png" alt="LinkedIn" width="60" height="60"/>
 </a>
-<a href="https://x.com/PraveenDeS54680">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+<a href="https://x.com/PraveenDeS54680" target="_blank">
+<img src="https://img.icons8.com/fluency/64/twitter.png" alt="Twitter" width="60" height="60"/>
 </a>
-<a href="mailto:pdsilva496@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="mailto:pdsilva496@gmail.com" target="_blank">
+<img src="https://img.icons8.com/fluency/64/gmail.png" alt="Gmail" width="60" height="60"/>
 </a>
-<a href="https://6787c9737816f119cea55f27--relaxed-mermaid-821c62.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+<a href="https://6787c9737816f119cea55f27--relaxed-mermaid-821c62.netlify.app/" target="_blank">
+<img src="https://img.icons8.com/fluency/64/domain.png" alt="Portfolio" width="60" height="60"/>
 </a>
-<a href="https://www.hackerrank.com/praveen_de_silva">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+<a href="https://www.hackerrank.com/praveen_de_silva" target="_blank">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" width="60" height="60"/>
 </a>
 
 </div>
