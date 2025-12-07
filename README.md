@@ -12,11 +12,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🎓 Computer Science student at **University of Moratuwa**
+### 🎓 CSE - UoM (SL)
 
-### 🚀 Exploring the **Data Science**, **AI/ML**
+### 🚀 Data Science, AI/ML
 
-### 💡 Always eager to learn and contribute to open-source projects
+### 💡 open-source projects
 
 <br clear="right"/>
 
@@ -131,7 +131,7 @@
 
 ### 💭 Philosophy
 
-*"When the mind is happy, every task becomes a pleasure."*
+*"No walls - No excuses"*
 
 **⭐ Feel free to explore my repositories and contribute!**
 
