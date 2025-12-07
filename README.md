@@ -20,7 +20,7 @@
 
 <br clear="right"/>
 
-
+---
 
 <div align="center">
 
@@ -93,15 +93,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=praveen-de-silva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=praveen-de-silva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen-de-silva&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-de-silva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-de-silva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages" /> -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen-de-silva&theme=tokyo-night&hide_border=true&area=true" width="49%" alt="Contribution Graph" />
 
 </div>
 
-
+---
 
 <div align="center">
 
