@@ -1,117 +1,27 @@
 <div align="center">
-
-# 👋 Hello, I'm Praveen
-
-### Computer Science Engineer | Problem Solver | Full Stack Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Innovative+Solutions;Passionate+About+Technology;Always+Learning+%26+Growing" alt="Typing SVG" />
-
+Hi, I'm Praveen 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
-
----
-
-## 🎓 About Me
-
-**BSc Engineering (Undergraduate)**  
+🎓 Education
+BSc Engineering (Undergraduate)
 University of Moratuwa
+💻 Skills
+Languages: Python • JavaScript • C • Java
+Web: HTML • CSS • React • Next.js
+Data & ML: Pandas • TensorFlow
+Tools: Git • Docker
+🚀 Interests
 
-Passionate about leveraging technology to solve real-world problems. I specialize in building scalable applications, exploring machine learning solutions, and contributing to open-source projects.
+🤖 Artificial Intelligence & Machine Learning
+📊 Data Science & Analytics
+🌐 Web Development
+🧩 Problem Solving & Algorithms
 
----
-
-## 💼 Technical Expertise
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🚀 Areas of Interest
-
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="48" height="48" alt="AI/ML"/>
-<br><strong>Artificial Intelligence</strong>
-<br>Machine Learning & Deep Learning
-</td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/color/96/000000/data-science.png" width="48" height="48" alt="Data Science"/>
-<br><strong>Data Science</strong>
-<br>Analytics & Visualization
-</td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="48" height="48" alt="Web Dev"/>
-<br><strong>Web Development</strong>
-<br>Full Stack Applications
-</td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/color/96/000000/puzzle.png" width="48" height="48" alt="Problem Solving"/>
-<br><strong>Problem Solving</strong>
-<br>Algorithms & Data Structures
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
+📫 Contact
+📧 Email: desilvabkp@gmail.com
+📱 Phone: 0702241222
+🌐 Portfolio: View My Work
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desilvabkp@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94702241222)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://6787c9737816f119cea55f27--relaxed-mermaid-821c62.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-**⭐️ From [Praveen](https://github.com/YOUR_GITHUB_USERNAME)**
-
+Show Image
 </div>
