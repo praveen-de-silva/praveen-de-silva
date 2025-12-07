@@ -12,13 +12,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🚀 Exploring the intersection of **Software**, **Hardware** & **Intelligence**
+### 🎓 Computer Science student at **University of Moratuwa**
 
-🎓 Computer Science student at **University of Moratuwa**, passionate about crafting intelligent systems and solving real-world problems through elegant code.
+### 🚀 Exploring the **Data Science**, **AI/ML**
 
-💡 Currently diving deep into **AI/ML techniques**, **full-stack development**, and **FPGA design** while contributing to open-source projects.
-
-🎯 Specialized in **OOP**, **embedded systems**, **Verilog/Vivado**, and modern **web technologies** — bridging the gap between hardware and software.
+### 💡 Always eager to learn and contribute to open-source projects
 
 <br clear="right"/>
 
