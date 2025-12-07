@@ -57,24 +57,29 @@ Passionate about building intelligent systems and solving complex problems throu
 
 ## 🛠️ Technical Arsenal
 
+<p align="center">
+
 **Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Verilog](https://img.shields.io/badge/Verilog-8B0000?style=flat&logo=v&logoColor=white)
+<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/python.png" alt="Python" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/verilog.png" alt="Verilog" width="48" height="48"/>
 
 **Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+<img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="48" height="48"/>
 
 **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=flat&logo=xilinx&logoColor=white)
+<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/github.png" alt="GitHub" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/linux.png" alt="Linux" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/xilinx.png" alt="Xilinx" width="48" height="48"/>
+
+</p>
+
 
 ---
 
@@ -108,7 +113,7 @@ Passionate about building intelligent systems and solving complex problems throu
 
 <div align="center">
 
-### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
+### 💡 *"When the mind is happy, every task becomes a pleasure."*
 
 **⭐ Feel free to explore my repositories and contribute!**
 
