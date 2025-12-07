@@ -24,8 +24,6 @@
 
 <div align="center">
 
-### 🛠️ Tech Stack & Tools
-
 <table>
 <tr>
 <td align="center" width="96">
@@ -94,8 +92,6 @@
 ---
 
 <div align="center">
-
-### 📊 GitHub Journey
 
 <img src="https://github-readme-stats.vercel.app/api?username=praveen-de-silva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen-de-silva&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
